@@ -1,2 +1,10 @@
 Link to try it out 
 https://luckarcade-4pbrg54uurww9zh3xrqp5e.streamlit.app/
+
+
+I’m encountering the following error, so please use the provided link. Simply copy and paste it, and you should be redirected quickly.
+
+Failed to update project: Demo URL could not be verified (idk why, pls let an admin know if this is happening a lot and you’re sure that the URL is valid): too many redirects; last one to:
+https://share.streamlit.io/-/auth/app?redirect_uri=https%3A%2F%2Fluckarcade-4pbrg54uurww9zh3xrqp5e.streamlit.app%2F
+
+The verifier is being redirected to a Streamlit login page, so it can’t access the app automatically. This causes a redirect loop and the URL verification fails.
